@@ -1,4 +1,4 @@
-# Transactions Dashboard
+# API Table
 
 This project is a full-stack application designed to manage and visualize product transaction data. It includes functionalities such as listing transactions, generating statistics, and visualizing data through charts. The application is built using Node.js, Express.js, MongoDB for the backend, and React.js for the frontend.
 
