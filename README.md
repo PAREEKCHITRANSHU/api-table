@@ -57,8 +57,8 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/transactions-dashboard.git
-   cd transactions-dashboard/backend
+   git clone https://github.com/PAREEKCHITRANSHU/api-table.git
+   cd api-table/backend
 
 2. **Install backend dependencies:**
     
@@ -83,7 +83,7 @@ Follow these steps to set up the project locally:
 ## Usage
 - Month Selection: Use the month dropdown to select a month for transaction data filtering.
 - Search Functionality: Use the search box to find specific transactions by title, description, or price.
-- Pagination: Navigate through paginated transaction data using Next and Previous buttons.
+- Pagination: Navigate through paginated transaction data using the Next and Previous buttons.
 - Statistics Overview: View monthly sales statistics, including total sales, sold items, and unsold items.
 - Data Visualization: Analyze transaction data through bar and pie charts.
 
@@ -133,7 +133,7 @@ Follow these steps to set up the project locally:
 - Description: Fetches and combines data from the statistics, bar chart, and pie chart APIs for the specified month.
 
 ## Frontend Components
-- TransactionTable: Displays transaction data with search and pagination.
+- TransactionTable: Displays transaction data by searching and pagination.
 - TransactionStatistics: Shows monthly sales statistics.
 - TransactionsBarChart: Visualizes transaction data using a bar chart.
 - TransactionsPieChart: Displays item distribution using a pie chart.
@@ -145,4 +145,4 @@ Follow these steps to set up the project locally:
 
 ## License
 This project is open-source and available under the MIT License.
- If you have any other questions or need further adjustments, just let me know!
+ Let me know if you have any other questions or need further adjustments!
