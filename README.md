@@ -23,7 +23,7 @@ This project is a full-stack application designed to manage and visualize produc
 
 ## Project Overview
 
-The Transactions Dashboard is a comprehensive application that allows users to manage and analyze product transaction data. It fetches data from a third-party API, stores it in a MongoDB database, and provides various APIs for data retrieval and analysis. The frontend interface is built with React.js, offering features such as searching, pagination, and data visualization through charts.
+The API Table is a comprehensive application that allows users to manage and analyze product transaction data. It fetches data from a third-party API, stores it in a MongoDB database, and provides various APIs for data retrieval and analysis. The frontend interface is built with React.js, offering features such as searching, pagination, and data visualization through charts.
 
 ## Features
 
